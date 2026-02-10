@@ -1,0 +1,16 @@
+------------------Assignment32_2 Start--------------------
+Start time:1770753923.3389933
+Dublicate file are:
+ Demo\A copy 2.jpg
+Demo\A copy 3.jpg
+Demo\A.txt
+Demo\A copy 2.txt
+Demo\A copy 3.txt
+Removed duplicate files:
+Demo\A copy 3.jpg
+Demo\A.txt
+Demo\A copy 3.txt
+End time:1770753923.3400648
+------------------Assignment32_2 End--------------------
+
+Time required for execution:0.0010714530944824219

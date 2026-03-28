@@ -1,0 +1,809 @@
+
+ Process id is:11228
+Process Name is :chrome.exe
+No of threads created by process:None
+Ram usage:216.67
+Virtual memory usage is:301.87
+Memory usage:5.399480572071599
+No of open files are:48
+----------------------------------------
+ Process id is:10752
+Process Name is :chrome.exe
+No of threads created by process:None
+Ram usage:207.61
+Virtual memory usage is:238.25
+Memory usage:5.173739686396361
+No of open files are:43
+----------------------------------------
+ Process id is:15676
+Process Name is :pycharm64.exe
+No of threads created by process:None
+Ram usage:185.05
+Virtual memory usage is:1635.32
+Memory usage:4.611480369595944
+No of open files are:71
+----------------------------------------
+ Process id is:8024
+Process Name is :Code.exe
+No of threads created by process:None
+Ram usage:162.22
+Virtual memory usage is:501.06
+Memory usage:4.042504312342059
+No of open files are:28
+----------------------------------------
+ Process id is:4192
+Process Name is :Code.exe
+No of threads created by process:None
+Ram usage:146.07
+Virtual memory usage is:269.59
+Memory usage:3.639986605456719
+No of open files are:13
+----------------------------------------
+ Process id is:11904
+Process Name is :chrome.exe
+No of threads created by process:None
+Ram usage:99.58
+Virtual memory usage is:147.13
+Memory usage:2.481592237394917
+No of open files are:52
+----------------------------------------
+ Process id is:9556
+Process Name is :explorer.exe
+No of threads created by process:None
+Ram usage:96.71
+Virtual memory usage is:128.75
+Memory usage:2.409947005891263
+No of open files are:36
+----------------------------------------
+ Process id is:3596
+Process Name is :msedgewebview2.exe
+No of threads created by process:None
+Ram usage:88.9
+Virtual memory usage is:98.64
+Memory usage:2.215453564934332
+No of open files are:11
+----------------------------------------
+ Process id is:14352
+Process Name is :chrome.exe
+No of threads created by process:None
+Ram usage:82.88
+Virtual memory usage is:186.54
+Memory usage:2.0654463614735556
+No of open files are:65
+----------------------------------------
+ Process id is:17300
+Process Name is :msedge.exe
+No of threads created by process:None
+Ram usage:76.98
+Virtual memory usage is:128.46
+Memory usage:1.9183594799490695
+No of open files are:90
+----------------------------------------
+ Process id is:16296
+Process Name is :msedge.exe
+No of threads created by process:None
+Ram usage:64.95
+Virtual memory usage is:76.59
+Memory usage:1.6186371052211461
+No of open files are:77
+----------------------------------------
+ Process id is:14608
+Process Name is :msedgewebview2.exe
+No of threads created by process:None
+Ram usage:59.37
+Virtual memory usage is:73.27
+Memory usage:1.479435092924644
+No of open files are:68
+----------------------------------------
+ Process id is:17216
+Process Name is :Code.exe
+No of threads created by process:None
+Ram usage:57.52
+Virtual memory usage is:174.82
+Memory usage:1.433488694460344
+No of open files are:89
+----------------------------------------
+ Process id is:10036
+Process Name is :Code.exe
+No of threads created by process:None
+Ram usage:51.11
+Virtual memory usage is:114.48
+Memory usage:1.273747084545267
+No of open files are:39
+----------------------------------------
+ Process id is:14424
+Process Name is :msedge.exe
+No of threads created by process:None
+Ram usage:42.82
+Virtual memory usage is:71.5
+Memory usage:1.0670856355204599
+No of open files are:66
+----------------------------------------
+ Process id is:7548
+Process Name is :Code.exe
+No of threads created by process:None
+Ram usage:40.76
+Virtual memory usage is:62.38
+Memory usage:1.015687969441751
+No of open files are:26
+----------------------------------------
+ Process id is:3980
+Process Name is :msedgewebview2.exe
+No of threads created by process:None
+Ram usage:38.49
+Virtual memory usage is:35.23
+Memory usage:0.9591310679422633
+No of open files are:12
+----------------------------------------
+ Process id is:5192
+Process Name is :chrome.exe
+No of threads created by process:None
+Ram usage:36.57
+Virtual memory usage is:36.79
+Memory usage:0.911335132251646
+No of open files are:16
+----------------------------------------
+ Process id is:7716
+Process Name is :chrome.exe
+No of threads created by process:None
+Ram usage:33.64
+Virtual memory usage is:172.85
+Memory usage:0.8384244279089327
+No of open files are:27
+----------------------------------------
+ Process id is:9972
+Process Name is :msedge.exe
+No of threads created by process:None
+Ram usage:28.62
+Virtual memory usage is:49.37
+Memory usage:0.7132399609066237
+No of open files are:38
+----------------------------------------
+ Process id is:8644
+Process Name is :python.exe
+No of threads created by process:None
+Ram usage:28.31
+Virtual memory usage is:18.49
+Memory usage:0.7055497798077259
+No of open files are:31
+----------------------------------------
+ Process id is:8544
+Process Name is :SearchApp.exe
+No of threads created by process:None
+Ram usage:23.62
+Virtual memory usage is:19.3
+Memory usage:0.5885422142270298
+No of open files are:30
+----------------------------------------
+ Process id is:13764
+Process Name is :OneDrive.exe
+No of threads created by process:None
+Ram usage:22.52
+Virtual memory usage is:58.38
+Memory usage:0.5612858761549874
+No of open files are:62
+----------------------------------------
+ Process id is:16496
+Process Name is :msedge.exe
+No of threads created by process:None
+Ram usage:19.66
+Virtual memory usage is:15.14
+Memory usage:0.48993267684496206
+No of open files are:80
+----------------------------------------
+ Process id is:10660
+Process Name is :Code.exe
+No of threads created by process:None
+Ram usage:18.32
+Virtual memory usage is:87.21
+Memory usage:0.45654366270671015
+No of open files are:42
+----------------------------------------
+ Process id is:3436
+Process Name is :RuntimeBroker.exe
+No of threads created by process:None
+Ram usage:17.79
+Virtual memory usage is:10.44
+Memory usage:0.443304869928861
+No of open files are:9
+----------------------------------------
+ Process id is:12684
+Process Name is :svchost.exe
+No of threads created by process:None
+Ram usage:17.69
+Virtual memory usage is:14.24
+Memory usage:0.4408712683152858
+No of open files are:57
+----------------------------------------
+ Process id is:15920
+Process Name is :StartMenuExperienceHost.exe
+No of threads created by process:None
+Ram usage:16.34
+Virtual memory usage is:23.64
+Memory usage:0.4070928779188618
+No of open files are:73
+----------------------------------------
+ Process id is:11812
+Process Name is :svchost.exe
+No of threads created by process:None
+Ram usage:16.32
+Virtual memory usage is:9.97
+Memory usage:0.40670350166068975
+No of open files are:50
+----------------------------------------
+ Process id is:9472
+Process Name is :svchost.exe
+No of threads created by process:None
+Ram usage:15.77
+Virtual memory usage is:7.72
+Memory usage:0.39307533262466854
+No of open files are:34
+----------------------------------------
+ Process id is:9520
+Process Name is :conhost.exe
+No of threads created by process:None
+Ram usage:14.67
+Virtual memory usage is:10.47
+Memory usage:0.3656243064235401
+No of open files are:35
+----------------------------------------
+ Process id is:3052
+Process Name is :sihost.exe
+No of threads created by process:None
+Ram usage:14.46
+Virtual memory usage is:7.15
+Memory usage:0.36046507100276065
+No of open files are:6
+----------------------------------------
+ Process id is:15336
+Process Name is :SystemSettings.exe
+No of threads created by process:None
+Ram usage:14.09
+Virtual memory usage is:40.94
+Memory usage:0.35112004080663184
+No of open files are:69
+----------------------------------------
+ Process id is:6992
+Process Name is :Code.exe
+No of threads created by process:None
+Ram usage:13.24
+Virtual memory usage is:91.12
+Memory usage:0.329996378800799
+No of open files are:24
+----------------------------------------
+ Process id is:2352
+Process Name is :chrome.exe
+No of threads created by process:None
+Ram usage:12.31
+Virtual memory usage is:31.45
+Memory usage:0.30673114737502
+No of open files are:4
+----------------------------------------
+ Process id is:6920
+Process Name is :RuntimeBroker.exe
+No of threads created by process:None
+Ram usage:12.09
+Virtual memory usage is:3.42
+Memory usage:0.30118253569606845
+No of open files are:23
+----------------------------------------
+ Process id is:16756
+Process Name is :igfxEM.exe
+No of threads created by process:None
+Ram usage:11.88
+Virtual memory usage is:3.61
+Memory usage:0.295925956210746
+No of open files are:83
+----------------------------------------
+ Process id is:11108
+Process Name is :FileCoAuth.exe
+No of threads created by process:None
+Ram usage:11.18
+Virtual memory usage is:11.46
+Memory usage:0.2786960567866335
+No of open files are:47
+----------------------------------------
+ Process id is:15928
+Process Name is :svchost.exe
+No of threads created by process:None
+Ram usage:11.17
+Virtual memory usage is:7.32
+Memory usage:0.27830668052846147
+No of open files are:74
+----------------------------------------
+ Process id is:12424
+Process Name is :ApplicationFrameHost.exe
+No of threads created by process:None
+Ram usage:10.63
+Virtual memory usage is:26.93
+Memory usage:0.2648731996215263
+No of open files are:54
+----------------------------------------
+ Process id is:13616
+Process Name is :RuntimeBroker.exe
+No of threads created by process:None
+Ram usage:10.52
+Virtual memory usage is:7.96
+Memory usage:0.26224490987886506
+No of open files are:61
+----------------------------------------
+ Process id is:13304
+Process Name is :msedgewebview2.exe
+No of threads created by process:None
+Ram usage:10.29
+Virtual memory usage is:11.92
+Memory usage:0.25650161007082756
+No of open files are:60
+----------------------------------------
+ Process id is:6620
+Process Name is :msedge.exe
+No of threads created by process:None
+Ram usage:10.06
+Virtual memory usage is:8.33
+Memory usage:0.25075831026279005
+No of open files are:21
+----------------------------------------
+ Process id is:15496
+Process Name is :Code.exe
+No of threads created by process:None
+Ram usage:9.7
+Virtual memory usage is:13.06
+Memory usage:0.24180265632483322
+No of open files are:70
+----------------------------------------
+ Process id is:10528
+Process Name is :TextInputHost.exe
+No of threads created by process:None
+Ram usage:9.37
+Virtual memory usage is:15.04
+Memory usage:0.23343106677413453
+No of open files are:41
+----------------------------------------
+ Process id is:17328
+Process Name is :powershell.exe
+No of threads created by process:None
+Ram usage:9.19
+Virtual memory usage is:55.45
+Memory usage:0.22905058386969912
+No of open files are:91
+----------------------------------------
+ Process id is:17204
+Process Name is :taskhostw.exe
+No of threads created by process:None
+Ram usage:9.11
+Virtual memory usage is:8.69
+Memory usage:0.22700635851429593
+No of open files are:88
+----------------------------------------
+ Process id is:16956
+Process Name is :msedge.exe
+No of threads created by process:None
+Ram usage:8.64
+Virtual memory usage is:27.59
+Memory usage:0.2154224148336779
+No of open files are:86
+----------------------------------------
+ Process id is:13012
+Process Name is :msedge.exe
+No of threads created by process:None
+Ram usage:8.38
+Virtual memory usage is:38.67
+Memory usage:0.20890036250929633
+No of open files are:59
+----------------------------------------
+ Process id is:11972
+Process Name is :backgroundTaskHost.exe
+No of threads created by process:None
+Ram usage:7.92
+Virtual memory usage is:7.94
+Memory usage:0.1973164188286783
+No of open files are:53
+----------------------------------------
+ Process id is:11072
+Process Name is :svchost.exe
+No of threads created by process:None
+Ram usage:7.88
+Virtual memory usage is:1.73
+Memory usage:0.19624563411870527
+No of open files are:46
+----------------------------------------
+ Process id is:3132
+Process Name is :Code.exe
+No of threads created by process:None
+Ram usage:7.68
+Virtual memory usage is:92.35
+Memory usage:0.19147577495609783
+No of open files are:7
+----------------------------------------
+ Process id is:12700
+Process Name is :chrome.exe
+No of threads created by process:None
+Ram usage:7.61
+Virtual memory usage is:18.8
+Memory usage:0.18972358179432366
+No of open files are:58
+----------------------------------------
+ Process id is:6120
+Process Name is :conhost.exe
+No of threads created by process:None
+Ram usage:6.37
+Virtual memory usage is:1.35
+Memory usage:0.15876816926964696
+No of open files are:19
+----------------------------------------
+ Process id is:15696
+Process Name is :dllhost.exe
+No of threads created by process:None
+Ram usage:6.2
+Virtual memory usage is:3.66
+Memory usage:0.15458237449429757
+No of open files are:72
+----------------------------------------
+ Process id is:16672
+Process Name is :msedgewebview2.exe
+No of threads created by process:None
+Ram usage:6.14
+Virtual memory usage is:8.74
+Memory usage:0.15292752539706644
+No of open files are:81
+----------------------------------------
+ Process id is:2560
+Process Name is :msedge.exe
+No of threads created by process:None
+Ram usage:5.96
+Virtual memory usage is:24.26
+Memory usage:0.14854704249263107
+No of open files are:5
+----------------------------------------
+ Process id is:10776
+Process Name is :pet.exe
+No of threads created by process:None
+Ram usage:5.94
+Virtual memory usage is:1.6
+Memory usage:0.147962978105373
+No of open files are:44
+----------------------------------------
+ Process id is:12572
+Process Name is :SynTPEnh.exe
+No of threads created by process:None
+Ram usage:5.65
+Virtual memory usage is:8.16
+Memory usage:0.14075951732919037
+No of open files are:55
+----------------------------------------
+ Process id is:4828
+Process Name is :chrome.exe
+No of threads created by process:None
+Ram usage:5.61
+Virtual memory usage is:10.82
+Memory usage:0.13978607668376028
+No of open files are:15
+----------------------------------------
+ Process id is:8540
+Process Name is :conhost.exe
+No of threads created by process:None
+Ram usage:5.55
+Virtual memory usage is:6.21
+Memory usage:0.13832591571561514
+No of open files are:29
+----------------------------------------
+ Process id is:13928
+Process Name is :msedge.exe
+No of threads created by process:None
+Ram usage:5.48
+Virtual memory usage is:8.43
+Memory usage:0.136476378489298
+No of open files are:64
+----------------------------------------
+ Process id is:15932
+Process Name is :msedge.exe
+No of threads created by process:None
+Ram usage:5.29
+Virtual memory usage is:19.56
+Memory usage:0.13170651932669059
+No of open files are:75
+----------------------------------------
+ Process id is:9144
+Process Name is :UserOOBEBroker.exe
+No of threads created by process:None
+Ram usage:5.06
+Virtual memory usage is:2.07
+Memory usage:0.1260605635831961
+No of open files are:33
+----------------------------------------
+ Process id is:16800
+Process Name is :msedge.exe
+No of threads created by process:None
+Ram usage:4.7
+Virtual memory usage is:9.16
+Memory usage:0.11700756558069628
+No of open files are:84
+----------------------------------------
+ Process id is:3140
+Process Name is :msedge.exe
+No of threads created by process:None
+Ram usage:4.67
+Virtual memory usage is:2.37
+Memory usage:0.11632615712889521
+No of open files are:8
+----------------------------------------
+ Process id is:11592
+Process Name is :Code.exe
+No of threads created by process:None
+Ram usage:4.44
+Virtual memory usage is:10.47
+Memory usage:0.11068020138540072
+No of open files are:49
+----------------------------------------
+ Process id is:9084
+Process Name is :chrome.exe
+No of threads created by process:None
+Ram usage:3.88
+Virtual memory usage is:13.19
+Memory usage:0.09656531202666449
+No of open files are:32
+----------------------------------------
+ Process id is:11840
+Process Name is :RtkNGUI64.exe
+No of threads created by process:None
+Ram usage:3.5
+Virtual memory usage is:4.43
+Memory usage:0.08731762589507867
+No of open files are:51
+----------------------------------------
+ Process id is:12636
+Process Name is :chrome.exe
+No of threads created by process:None
+Ram usage:3.44
+Virtual memory usage is:6.71
+Memory usage:0.08576012086239054
+No of open files are:56
+----------------------------------------
+ Process id is:10788
+Process Name is :msedge.exe
+No of threads created by process:None
+Ram usage:3.36
+Virtual memory usage is:10.03
+Memory usage:0.08371589550698737
+No of open files are:45
+----------------------------------------
+ Process id is:17020
+Process Name is :cmd.exe
+No of threads created by process:None
+Ram usage:3.25
+Virtual memory usage is:2.72
+Memory usage:0.0808929176352401
+No of open files are:87
+----------------------------------------
+ Process id is:9596
+Process Name is :chrome.exe
+No of threads created by process:None
+Ram usage:3.02
+Virtual memory usage is:13.43
+Memory usage:0.07524696189174561
+No of open files are:37
+----------------------------------------
+ Process id is:3528
+Process Name is :RuntimeBroker.exe
+No of threads created by process:None
+Ram usage:2.91
+Virtual memory usage is:8.89
+Memory usage:0.07252132808454137
+No of open files are:10
+----------------------------------------
+ Process id is:7500
+Process Name is :SecurityHealthSystray.exe
+No of threads created by process:None
+Ram usage:2.85
+Virtual memory usage is:1.75
+Memory usage:0.07106116711639623
+No of open files are:25
+----------------------------------------
+ Process id is:6044
+Process Name is :PWRISOVM.EXE
+No of threads created by process:None
+Ram usage:1.81
+Virtual memory usage is:1.34
+Memory usage:0.04507030188341296
+No of open files are:18
+----------------------------------------
+ Process id is:6288
+Process Name is :msedgewebview2.exe
+No of threads created by process:None
+Ram usage:1.51
+Virtual memory usage is:2.14
+Memory usage:0.03767215297814431
+No of open files are:20
+----------------------------------------
+ Process id is:14604
+Process Name is :LocationNotificationWindows.exe
+No of threads created by process:None
+Ram usage:1.5
+Virtual memory usage is:1.53
+Memory usage:0.03738012078451529
+No of open files are:67
+----------------------------------------
+ Process id is:6912
+Process Name is :CompPkgSrv.exe
+No of threads created by process:None
+Ram usage:1.46
+Virtual memory usage is:1.46
+Memory usage:0.03650402420362821
+No of open files are:22
+----------------------------------------
+ Process id is:16488
+Process Name is :PanGPA.exe
+No of threads created by process:None
+Ram usage:1.24
+Virtual memory usage is:5.88
+Memory usage:0.03085806846013371
+No of open files are:79
+----------------------------------------
+ Process id is:16460
+Process Name is :RuntimeBroker.exe
+No of threads created by process:None
+Ram usage:1.09
+Virtual memory usage is:1.77
+Memory usage:0.02706164994295638
+No of open files are:78
+----------------------------------------
+ Process id is:1136
+Process Name is :ShellExperienceHost.exe
+No of threads created by process:None
+Ram usage:0.62
+Virtual memory usage is:17.52
+Memory usage:0.01547770626233836
+No of open files are:3
+----------------------------------------
+ Process id is:16696
+Process Name is :Video.UI.exe
+No of threads created by process:None
+Ram usage:0.59
+Virtual memory usage is:19.95
+Memory usage:0.0147962978105373
+No of open files are:82
+----------------------------------------
+ Process id is:10328
+Process Name is :CalculatorApp.exe
+No of threads created by process:None
+Ram usage:0.55
+Virtual memory usage is:15.99
+Memory usage:0.013822857165107215
+No of open files are:40
+----------------------------------------
+ Process id is:16128
+Process Name is :fsnotifier.exe
+No of threads created by process:None
+Ram usage:0.3
+Virtual memory usage is:0.48
+Memory usage:0.00739814890526865
+No of open files are:76
+----------------------------------------
+ Process id is:16876
+Process Name is :RuntimeBroker.exe
+No of threads created by process:None
+Ram usage:0.29
+Virtual memory usage is:1.36
+Memory usage:0.007300804840725641
+No of open files are:85
+----------------------------------------
+ Process id is:4420
+Process Name is :OneDrive.Sync.Service.exe
+No of threads created by process:None
+Ram usage:0.21
+Virtual memory usage is:40.0
+Memory usage:0.005256579485322462
+No of open files are:14
+----------------------------------------
+ Process id is:4
+Process Name is :System
+No of threads created by process:None
+Ram usage:0.13
+Virtual memory usage is:0.19
+Memory usage:0.0033096981944622907
+No of open files are:2
+----------------------------------------
+ Process id is:13860
+Process Name is :conhost.exe
+No of threads created by process:None
+Ram usage:0.13
+Virtual memory usage is:6.19
+Memory usage:0.0033096981944622907
+No of open files are:63
+----------------------------------------
+ Process id is:0
+Process Name is :System Idle Process
+No of threads created by process:None
+Ram usage:0.01
+Virtual memory usage is:0.06
+Memory usage:0.0001946881290860171
+No of open files are:1
+----------------------------------------
+ Process id is:5764
+Process Name is :SearchApp.exe
+No of threads created by process:None
+Ram usage:0.0
+Virtual memory usage is:141.51
+Memory usage:0.0
+No of open files are:17
+-----------------------------------------------------------------Top 10 High memory consuming ------------------------
+ Process id is:11228
+Process Name is :chrome.exe
+No of threads created by process:None
+Ram usage:216.67
+Virtual memory usage is:301.87
+Memory usage:5.399480572071599
+No of open files are:48
+----------------------------------------
+ Process id is:10752
+Process Name is :chrome.exe
+No of threads created by process:None
+Ram usage:207.61
+Virtual memory usage is:238.25
+Memory usage:5.173739686396361
+No of open files are:43
+----------------------------------------
+ Process id is:15676
+Process Name is :pycharm64.exe
+No of threads created by process:None
+Ram usage:185.05
+Virtual memory usage is:1635.32
+Memory usage:4.611480369595944
+No of open files are:71
+----------------------------------------
+ Process id is:8024
+Process Name is :Code.exe
+No of threads created by process:None
+Ram usage:162.22
+Virtual memory usage is:501.06
+Memory usage:4.042504312342059
+No of open files are:28
+----------------------------------------
+ Process id is:4192
+Process Name is :Code.exe
+No of threads created by process:None
+Ram usage:146.07
+Virtual memory usage is:269.59
+Memory usage:3.639986605456719
+No of open files are:13
+----------------------------------------
+ Process id is:11904
+Process Name is :chrome.exe
+No of threads created by process:None
+Ram usage:99.58
+Virtual memory usage is:147.13
+Memory usage:2.481592237394917
+No of open files are:52
+----------------------------------------
+ Process id is:9556
+Process Name is :explorer.exe
+No of threads created by process:None
+Ram usage:96.71
+Virtual memory usage is:128.75
+Memory usage:2.409947005891263
+No of open files are:36
+----------------------------------------
+ Process id is:3596
+Process Name is :msedgewebview2.exe
+No of threads created by process:None
+Ram usage:88.9
+Virtual memory usage is:98.64
+Memory usage:2.215453564934332
+No of open files are:11
+----------------------------------------
+ Process id is:14352
+Process Name is :chrome.exe
+No of threads created by process:None
+Ram usage:82.88
+Virtual memory usage is:186.54
+Memory usage:2.0654463614735556
+No of open files are:65
+----------------------------------------
+ Process id is:17300
+Process Name is :msedge.exe
+No of threads created by process:None
+Ram usage:76.98
+Virtual memory usage is:128.46
+Memory usage:1.9183594799490695
+No of open files are:90
+----------------------------------------
